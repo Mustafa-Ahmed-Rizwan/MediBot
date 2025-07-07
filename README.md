@@ -136,6 +136,6 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 - Powered by [LangChain](https://langchain.com), [Chainlit](https://chainlit.io), and [Groq](https://x.ai).
 - Uses `sentence-transformers/all-MiniLM-L6-v2` for embeddings and `llama-3.3-70b-versatile` for LLM.
-- Inspired by Grok's source formatting for clear, transparent responses.
+
 
 © 2025 MediBot
