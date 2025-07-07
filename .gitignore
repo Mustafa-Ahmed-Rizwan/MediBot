@@ -1,0 +1,54 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.env
+env/
+*.venv/
+
+# Environment variables
+.env
+*.env
+
+# Data and vector store
+data/
+vectorstore/
+*.faiss
+*.pkl
+
+# Cache and temporary files
+*.cache
+*.log
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency lock files (optional, include if you want to track them)
+# requirements.txt
+# Pipfile.lock
+
+# Miscellaneous
+*.zip
+*.tar.gz
+*.rar
+*.bak
+*.backup
